@@ -9,7 +9,7 @@ The goal of this project is to understand the complete ML workflow:
 - Splitting data into training and testing sets
 - Training a machine learning model
 - Evaluating performance using accuracy and other metrics
-
+- Comments are mentioned in each and every step for easy understanding 
 ---
 
 ##  Dataset
